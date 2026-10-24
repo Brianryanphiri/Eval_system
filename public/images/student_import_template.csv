@@ -1,0 +1,16 @@
+﻿first_name,last_name,class_name,date_of_birth,gender
+John,Banda,"Form 2A",2012-03-14,Male
+Grace,Phiri,"Form 2A",2012-06-22,Female
+Kelvin,Chirwa,"Form 2A",2012-01-09,Male
+Mercy,Gondwe,"Form 2A",2012-11-30,Female
+
+"# Instructions:"
+"# first_name and last_name are required"
+"# class_name must match an existing class exactly"
+"# date_of_birth must be YYYY-MM-DD (optional)"
+"# gender must be Male or Female (optional)"
+"# Delete the sample rows and instruction lines before uploading"
+
+"# Your school's classes:"
+"#   Form 2A"
+"#   Fresh Tomatoes"
